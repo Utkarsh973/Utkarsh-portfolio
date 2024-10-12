@@ -1,0 +1,30 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin: 80px 170px;
+}
+
+.contact-header{
+    font-weight: 600;
+    font-size: 50px;
+    color: #D2FF72;
+}
+
+.contact-para{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.contact-phone{
+    line-height: 2px;
+}
+
+.contact-mail{
+    line-height: 1px;
+}
